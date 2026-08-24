@@ -6,8 +6,6 @@
 
 ### Your Private Family Office.
 
-**The financial operating system for $200K+ households.**
-
 Alpheva brings taxes, investments, debt, insurance, cash flow, credit, estate planning, and major financial decisions into one coordinated platform—powered by advanced AI and supported by human financial expertise.
 
 [Website](https://alpheva.com) · [Web App](https://app.alpheva.com/login/) · [iOS](https://apps.apple.com/us/app/alpheva-ai-financial-advisor/id6753827981) · [Android](https://play.google.com/store/apps/details?id=com.alpheva.ai.mobile)
